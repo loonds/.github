@@ -22,7 +22,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Loonds :
 I am an experienced Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a Bachelor of Engineering (B.E.) in information Technology form Chandigarh University and 5+ year in software development, working as Full Stack Engineer with good knowledge of front-end and back-end techniques, include design, maintain, modify and debug software.
 - :telescope: I'm responsible and always punctual to deadlines. My goal is to make every client satisfied.
 
