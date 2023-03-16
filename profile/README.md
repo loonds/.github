@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Loonds :
-I am an experienced Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a Bachelor of Engineering (B.E.) in information Technology form Chandigarh University and 5+ year in software development, working as Full Stack Engineer with good knowledge of front-end and back-end techniques, include design, maintain, modify and debug software.
+Loonds <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  is a dynamic and innovative software engineering group that specializes in developing cutting-edge technology solutions. Our team of skilled software engineers specialize in various areas of software development, including custom software development, mobile application development, and web solutions. We are committed to delivering the best possible outcomes and exceeding expectations in every project we undertake. At Loonds, we are passionate about software development and stay up-to-date with the latest trends and technologies. Our dedication to staying ahead of the curve has made us a top choice for businesses seeking innovative technology solutions.
 - :telescope: I'm responsible and always punctual to deadlines. My goal is to make every client satisfied.
 
 - :seedling: Exploring Technical Content Writing.
