@@ -1,5 +1,8 @@
 ### :woman_technologist: About Loonds :
-Loonds <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  is a dynamic and innovative software engineering group that specializes in developing cutting-edge technology solutions. Our team of skilled software engineers specialize in various areas of software development, including custom software development, mobile application development, and web solutions. We are committed to delivering the best possible outcomes and exceeding expectations in every project we undertake. At Loonds, we are passionate about software development and stay up-to-date with the latest trends and technologies. Our dedication to staying ahead of the curve has made us a top choice for businesses seeking innovative technology solutions.
+Welcome <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   to Loonds, a dynamic and trailblazing software engineering group committed to pushing the boundaries of technology. We specialize in crafting cutting-edge solutions that redefine industry standards and fuel the growth of businesses.
+
+##Our Mission
+At Loonds, our mission is to leverage the power of technology to solve complex problems and improve the way businesses operate. We believe that by combining our expertise in software engineering with a deep understanding of our clients' needs, we can deliver innovative solutions that drive tangible results.
 - :telescope: I'm responsible and always punctual to deadlines. My goal is to make every client satisfied.
 
 - :seedling: Exploring Technical Content Writing.
