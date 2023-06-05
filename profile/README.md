@@ -1,7 +1,8 @@
 ### :woman_technologist: About Loonds :
 Welcome <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   to Loonds, a dynamic and trailblazing software engineering group committed to pushing the boundaries of technology. We specialize in crafting cutting-edge solutions that redefine industry standards and fuel the growth of businesses.
 
-##Our Mission
+### Our Mission
+
 At Loonds, our mission is to leverage the power of technology to solve complex problems and improve the way businesses operate. We believe that by combining our expertise in software engineering with a deep understanding of our clients' needs, we can deliver innovative solutions that drive tangible results.
 - :telescope: I'm responsible and always punctual to deadlines. My goal is to make every client satisfied.
 
